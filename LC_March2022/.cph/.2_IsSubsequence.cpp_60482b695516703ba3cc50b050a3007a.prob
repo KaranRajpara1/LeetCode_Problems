@@ -1,1 +1,0 @@
-{"name":"Local: 2_IsSubsequence","url":"e:\\Temp\\LC_Daily\\LC_March2022\\2_IsSubsequence.cpp","tests":[{"id":1646233053445,"input":"abc\nahbgdc","output":"true"},{"id":1646233118968,"input":"axc\nahbgdc","output":"false"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Temp\\LC_Daily\\LC_March2022\\2_IsSubsequence.cpp","group":"local","local":true}
